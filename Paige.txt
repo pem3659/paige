@@ -1,0 +1,10 @@
+C:\Users\Paige
+ls
+mkdir SoftDevI\Unit01
+C:Users\SoftDevI\Unit01
+mv file01.txt file02.txt
+mkdir C:\Users\SoftDevI\Unit01\Assignment01
+C:\Users\SoftDevI\Unit01\Assignment01
+mkdir Paige
+mv C:\file02.txt
+cd . \Unit01\
